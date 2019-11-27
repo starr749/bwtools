@@ -1,0 +1,196 @@
+{
+  "serialize_version": 1,
+  "name": "Gana",
+  "gender": "female",
+  "stock": "man",
+  "lifepaths": [
+    [
+      "Peasant Setting",
+      "Born Peasant",
+      0,
+      null,
+      null,
+      null,
+      []
+    ],
+    [
+      "Peasant Setting",
+      "Farmer",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ]
+      ]
+    ],
+    [
+      "Peasant Setting",
+      "Farmer",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ]
+      ]
+    ]
+  ],
+  "stats": [
+    {
+      "name": "Will",
+      "shade": "B",
+      "mentalPoints": 4,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Perception",
+      "shade": "B",
+      "mentalPoints": 3,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Power",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 5,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Forte",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Agility",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Speed",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 5,
+      "eitherPoints": 0
+    }
+  ],
+  "skills": {
+    "lifepath": [
+      {
+        "name": "Farming",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Mending",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Animal Husbandry",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Weaving",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Cooking",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Sewing",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Firebuilding",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Sing",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      }
+    ],
+    "general": []
+  },
+  "traits": [],
+  "gear": [],
+  "property": [],
+  "relationships": [],
+  "affiliations": [],
+  "reputations": [],
+  "attr_mod_questions": {
+    "Steel": [
+      {
+        "question": "Has the character ever been severely wounded?",
+        "answer": true
+      },
+      {
+        "question": "Has the character ever murdered or killed with his own hand more than once?",
+        "answer": true
+      },
+      {
+        "question": "Has the character been tortured, enslaved or beaten terribly over time?",
+        "answer": true
+      },
+      {
+        "question": "Has the character lead a sheltered life, free of violence and pain?",
+        "answer": true
+      },
+      {
+        "question": "Has the character been raised in a competitive (but non-violent) culture - sports, debate, strategy games, courting?",
+        "answer": true
+      },
+      {
+        "question": "Has the character given birth to a child?",
+        "answer": true
+      }
+    ],
+    "Health": [
+      {
+        "question": "Does the character live in squalor and filth?",
+        "answer": true
+      },
+      {
+        "question": "Is the character frail or sickly?",
+        "answer": true
+      },
+      {
+        "question": "Was the character severely wounded in the past?",
+        "answer": true
+      },
+      {
+        "question": "Has the character been tortured and enslaved?",
+        "answer": true
+      },
+      {
+        "question": "Is the character athletic and active?",
+        "answer": true
+      },
+      {
+        "question": "Does the character live in a really clean and happy place, like the hills in the Sound of Music?",
+        "answer": true
+      }
+    ]
+  },
+  "brutal_life_withdrawn": false,
+  "approp_weapons": {}
+}

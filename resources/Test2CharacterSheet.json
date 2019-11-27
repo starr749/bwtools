@@ -1,0 +1,281 @@
+{
+  "serialize_version": 1,
+  "name": "Olena",
+  "gender": "female",
+  "stock": "elf",
+  "lifepaths": [
+    [
+      "Etharch Setting",
+      "Born Etharch",
+      0,
+      null,
+      null,
+      null,
+      []
+    ],
+    [
+      "Etharch Setting",
+      "Attendant",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ]
+      ]
+    ],
+    [
+      "Etharch Setting",
+      "Second",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ]
+      ]
+    ],
+    [
+      "Etharch Setting",
+      "Sword Singer",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ]
+      ]
+    ],
+    [
+      "Etharch Setting",
+      "Prince/princess",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "pm"
+        ]
+      ]
+    ],
+    [
+      "Etharch Setting",
+      "Etharch",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "pm"
+        ]
+      ]
+    ],
+    [
+      "Etharch Setting",
+      "Etharch",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "pm"
+        ]
+      ]
+    ],
+    [
+      "Etharch Setting",
+      "Etharch",
+      0,
+      null,
+      null,
+      null,
+      []
+    ]
+  ],
+  "stats": [
+    {
+      "name": "Will",
+      "shade": "G",
+      "mentalPoints": 9,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Perception",
+      "shade": "G",
+      "mentalPoints": 6,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Power",
+      "shade": "G",
+      "mentalPoints": 0,
+      "physicalPoints": 6,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Forte",
+      "shade": "G",
+      "mentalPoints": 0,
+      "physicalPoints": 6,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Agility",
+      "shade": "G",
+      "mentalPoints": 0,
+      "physicalPoints": 6,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Speed",
+      "shade": "G",
+      "mentalPoints": 0,
+      "physicalPoints": 6,
+      "eitherPoints": 0
+    }
+  ],
+  "skills": {
+    "lifepath": [
+      {
+        "name": "Elven Script",
+        "lifepathPoints": 4,
+        "generalPoints": 0
+      },
+      {
+        "name": "Etiquette",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Sing",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Riding",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Brawling",
+        "lifepathPoints": 0,
+        "generalPoints": 5
+      },
+      {
+        "name": "Sword",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Song Of Bonding",
+        "lifepathPoints": 4,
+        "generalPoints": 0
+      },
+      {
+        "name": "Knives",
+        "lifepathPoints": 4,
+        "generalPoints": 3
+      },
+      {
+        "name": "Bow",
+        "lifepathPoints": 3,
+        "generalPoints": 4
+      },
+      {
+        "name": "Mending",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Mounted Combat Training",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Song Of The Sword",
+        "lifepathPoints": 5,
+        "generalPoints": 0
+      },
+      {
+        "name": "Armor Training",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Shield Training",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Song Of Lordship",
+        "lifepathPoints": 5,
+        "generalPoints": 0
+      },
+      {
+        "name": "Voice Of Ages",
+        "lifepathPoints": 4,
+        "generalPoints": 2
+      },
+      {
+        "name": "Council Caller",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Voice Of Thunder",
+        "lifepathPoints": 1,
+        "generalPoints": 5
+      },
+      {
+        "name": "Doom Sayer",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Discerner",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      }
+    ],
+    "general": []
+  },
+  "traits": [
+    {
+      "name": "Fea"
+    },
+    {
+      "name": "Aman"
+    },
+    {
+      "name": "Ambidextrous"
+    },
+    {
+      "name": "Agreeable"
+    }
+  ],
+  "gear": [],
+  "property": [],
+  "relationships": [],
+  "affiliations": [],
+  "reputations": [],
+  "attr_mod_questions": {},
+  "brutal_life_withdrawn": false,
+  "approp_weapons": {}
+}

@@ -1,0 +1,222 @@
+{
+  "serialize_version": 1,
+  "name": "Peyony",
+  "gender": "female",
+  "stock": "man",
+  "lifepaths": [
+    [
+      "Peasant Setting",
+      "Born Peasant",
+      0,
+      null,
+      null,
+      null,
+      []
+    ],
+    [
+      "Peasant Setting",
+      "Farmer",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ]
+      ]
+    ],
+    [
+      "Peasant Setting",
+      "Woodcutter",
+      0,
+      null,
+      null,
+      null,
+      [
+        [
+          1,
+          "p"
+        ]
+      ]
+    ],
+    [
+      "Peasant Setting",
+      "Peasant Pilgrim",
+      0,
+      null,
+      null,
+      null,
+      []
+    ]
+  ],
+  "stats": [
+    {
+      "name": "Will",
+      "shade": "B",
+      "mentalPoints": 4,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Perception",
+      "shade": "B",
+      "mentalPoints": 3,
+      "physicalPoints": 0,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Power",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 5,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Forte",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Agility",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 4,
+      "eitherPoints": 0
+    },
+    {
+      "name": "Speed",
+      "shade": "B",
+      "mentalPoints": 0,
+      "physicalPoints": 5,
+      "eitherPoints": 0
+    }
+  ],
+  "skills": {
+    "lifepath": [
+      {
+        "name": "Farming",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Mending",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Animal Husbandry",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Weaving",
+        "lifepathPoints": 0,
+        "generalPoints": 1
+      },
+      {
+        "name": "Cooking",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Sewing",
+        "lifepathPoints": 0,
+        "generalPoints": 1
+      },
+      {
+        "name": "Firebuilding",
+        "lifepathPoints": 3,
+        "generalPoints": 0
+      },
+      {
+        "name": "Sing",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Foraging",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Orienteering",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Tree-wise",
+        "lifepathPoints": 0,
+        "generalPoints": 1
+      },
+      {
+        "name": "Tree Cutting",
+        "lifepathPoints": 1,
+        "generalPoints": 0
+      },
+      {
+        "name": "Doctrine",
+        "lifepathPoints": 2,
+        "generalPoints": 0
+      },
+      {
+        "name": "Pilgrimage-wise",
+        "lifepathPoints": 0,
+        "generalPoints": 0
+      },
+      {
+        "name": "Saint-wise",
+        "lifepathPoints": 0,
+        "generalPoints": 1
+      }
+    ],
+    "general": []
+  },
+  "traits": [
+    {
+      "name": "Abashed"
+    },
+    {
+      "name": "Fleet Of Foot"
+    },
+    {
+      "name": "Hatred Of Forests"
+    }
+  ],
+  "gear": [
+    {
+      "cost": 1,
+      "desc": "Clothes"
+    },
+    {
+      "cost": 5,
+      "desc": "Riding Mount Or Pack Animal"
+    },
+    {
+      "cost": 5,
+      "desc": "Arms, Run Of The Mill Quality"
+    },
+    {
+      "cost": 1,
+      "desc": "Traveling Gear"
+    },
+    {
+      "cost": 1,
+      "desc": "Shoes"
+    },
+    {
+      "cost": 3,
+      "desc": "Missile Weapons, Hunting Bow, Poor Quality"
+    }
+  ],
+  "property": [],
+  "relationships": [],
+  "affiliations": [],
+  "reputations": [],
+  "attr_mod_questions": {},
+  "brutal_life_withdrawn": false,
+  "approp_weapons": {}
+}
